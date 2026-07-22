@@ -2,6 +2,8 @@
 
 Uma página **Hello World** moderna com animações visuais impressionantes, construída com HTML e CSS puro.
 
+### 🌐 [**Acesse o site ao vivo →**](https://engsoft7.github.io/Hello_World_Antgravity/)
+
 ## ✨ Features
 
 - 🎨 **Texto com gradiente animado** — transições suaves entre roxo, rosa e ciano
